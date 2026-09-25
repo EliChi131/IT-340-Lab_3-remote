@@ -1,0 +1,25 @@
+commit ff0d986aad78052950923f0709716caa217b76a6
+Author: Eli <ec498@njit.edu>
+Date:   Fri Sep 25 16:29:19 2026 -0400
+
+    Revert "Created a new text file named "chicken" and wrote in it."
+    
+    This reverts commit f89076fb8e79fbdc15629eec6d6b12f09fbe581a.
+
+commit f89076fb8e79fbdc15629eec6d6b12f09fbe581a
+Author: Eli <ec498@njit.edu>
+Date:   Fri Sep 25 16:18:15 2026 -0400
+
+    Created a new text file named "chicken" and wrote in it.
+
+commit 3a6434b5c6fc6b2c444ce13f91dec66d11b75e4f
+Author: Eli <ec498@njit.edu>
+Date:   Fri Sep 25 15:46:32 2026 -0400
+
+    Made changes to hostname file
+
+commit b3d90dbb4b478fc7079f4c4125954617a2624db5
+Author: Eli <ec498@njit.edu>
+Date:   Fri Sep 25 15:39:37 2026 -0400
+
+    Added 5 Files
